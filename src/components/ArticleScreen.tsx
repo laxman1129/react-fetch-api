@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Article from "../model/Article";
-import "./Article.css";
+import "../styles/Article.css";
 interface ArticleProps {
   data: Article;
 }

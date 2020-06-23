@@ -1,8 +1,23 @@
 
 # NewsFeed Reader
 
+Please register with https://gnews.io to get the token as this current token can only fetch 100 rerquests per day.
 
 
+## Fetct API
+
+The Fetch API is a simple interface for fetching resources. Fetch makes it easier to make web requests and handle responses than with the older XMLHttpRequest, which often requires additional logic (for example, for handling redirects).
+
+
+## Exercise
+
+Implement the application mentioned in the below link.
+https://dev.to/bouhm/thinking-in-react-component-composition-fp5
+
+Read bout Higher Order Components  
+https://reactjs.org/docs/higher-order-components.html
+
+---------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

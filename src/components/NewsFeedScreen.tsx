@@ -1,5 +1,5 @@
 import React, { Component, useState } from "react";
-import "./NewsFeed.css"
+import "../styles/NewsFeed.css"
 
 import NewsFeed from "../model/NewsFeed";
 import ArticleScreen from "./ArticleScreen";
